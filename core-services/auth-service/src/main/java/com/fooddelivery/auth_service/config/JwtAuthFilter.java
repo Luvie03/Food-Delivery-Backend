@@ -1,5 +1,6 @@
-package com.fooddelivery.auth_service.security;
+package com.fooddelivery.auth_service.config;
 
+import com.fooddelivery.auth_service.security.JwtUtil;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
